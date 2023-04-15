@@ -1,0 +1,17 @@
+SCREEN_WIDTH = 600
+SCREEN_HEIGHT = 600
+FPS = 60
+
+DENSITY = 200
+BOID_BACKGROUND_COLOR = (81, 209, 246)
+BOID_BORDER_COLOR = (0, 255, 127)
+BOID_SIZE = 5
+BOID_RADIUS = 40
+BOID_VISION_RANGE = 220
+
+SEP_COEF = 40 # Coeficiente de separacion
+ALIGN_COEF = 100 # Coeficiente de alineacion
+COH_COEF = 30 # Coeficiente de cohesion
+
+MAX_SPEED = 80
+TURN_RANGE = 50
