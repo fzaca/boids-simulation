@@ -4,7 +4,7 @@ _Proyecto de simulación de comportamiento de boids, inspirado en el comportamie
 Cada fotograma se actualiza calculando la nueva posición y velocidad de cada boid, según las reglas de separación, alineación y cohesión.
 Puede ajustar los coeficientes de estas reglas y observar cómo afectan el comportamiento de los boids. También puede agregar y quitar boids de la simulación y observar cómo interactúan con los demás boids en el espacio de simulación._
 
-<p align="center"><img src='https://raw.githubusercontent.com/Xukay101/boid-simulation/master/boids.gif' /></p>
+<p align="center"><img src='https://raw.githubusercontent.com/Xukay101/boids-simulation/master/boids.gif' /></p>
 
 ## Instrucciones 🔧
 
